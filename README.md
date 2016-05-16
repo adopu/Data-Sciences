@@ -1,3 +1,3 @@
-# DataScienceProjects
+# DataScience
 
-Kaggle competitions, school projects and pet projects
+Kaggle competitions or some personnal studies
