@@ -1,3 +1,3 @@
 # Data-Sciences
 
-Kaggle competitions or some personnal studies
+Kaggle or other DS related stuff.
