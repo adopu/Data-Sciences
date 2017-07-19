@@ -1,3 +1,3 @@
-# Data-Sciences
+# DS_moocs
 
-Just Data Science related stuff, including Kaggle, MOOCs or personnal projects
+Just Data Science related stuff, mainly MOOCs exercices and assignments
